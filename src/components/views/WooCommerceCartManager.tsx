@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 // 🔧 CONFIGURATION - Replace with your credentials
 const WC_CONFIG = {
   siteUrl: "https://1clickdesigners.com/dressup-windows",
-  consumerKey: "ck_961f033067d0d7b566b715eed2dbf2ec5cc4ef00",
-  consumerSecret: "cs_0f028caee484604f5447f2028c44ad5bc49d3a47",
+  consumerKey: "ck_*********************",
+  consumerSecret: "cs_*******************************",
 };
 
 // WooCommerce Cart Manager Component
